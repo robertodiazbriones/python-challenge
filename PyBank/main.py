@@ -42,7 +42,7 @@ print("Greatest Increase in profits: "+str(file[c][0])+" ($"+str(Greatest_Inc)+"
 print("Greatest Decrease in profits: "+str(file[d][0])+" ($"+str(Greatest_Dec)+")")
 
 #Create Results file to export results
-ResultsFile=open("Resources/Results.txt", "w")
+ResultsFile=open("analysis/Results.txt", "w")
 
 ResultsFile.write("Financial Analisis")
 ResultsFile.write("------------------")
