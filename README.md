@@ -1,7 +1,7 @@
-## Python-challenge
+# Python-challenge
 Hello this is the **Python Challenge** homework that corresponds to the 3rd unit of the _Data Analisis bootcamp course_, On this homework we were assign to analize 2 sets of data **PyBank.csv** and **PyPoll.csv** using python scripting with the csv library. 
 
-# PyBank.csv
+## PyBank.csv
 On this file we have to get the nexxt data.  
 -The total number of months included in the dataset.  
 -The net total amount of "Profit/Losses" over the entire period.  
